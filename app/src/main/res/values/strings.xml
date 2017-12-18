@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">tennis score keeper</string>
+    <string name="federer">Federer</string>
+    <string name="nadal">Nadal</string>
+    <string name="pointsforfedere">0</string>
+    <string name="pointsfotnadal">0</string>
+    <string name="NforNadal">N</string>
+    <string name="FforFderer">F</string>
+    <string name="hitforFederer">hit</string>
+    <string name="hitfornadal">Hit</string>
+    <string name="rest">Rest</string>
+</resources>
